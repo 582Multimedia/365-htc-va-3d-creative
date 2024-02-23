@@ -13,6 +13,8 @@
 
 [Solids from sketches](https://help.autodesk.com/view/fusion360/ENU/?guid=SLD-CREATE-SOLID-FROM-SKETCH)
 
+[Combine bodies/components](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-join-or-combine-bodies-in-Fusion-360.html)
+
 ## Tips and Tricks
 
 [Design Tips for 3D Printing](https://imgur.com/gallery/SqIdFwB)
