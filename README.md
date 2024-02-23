@@ -1,5 +1,12 @@
 # 3D Printing for Creative Problem Solving
 
+## Important Dates / Tentative Deadlines
+
+- Keychains Feb 22-28 (Anghelos)
+- Team project March 21/28
+- Project 1 Apr 11/18
+- Project 2 May 9/16
+
 ## Basics
 
 [Start a sketch on a plane or face](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-88CC0E51-AD05-4028-BF59-FACA5EC0FA2B)
