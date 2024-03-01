@@ -2,7 +2,7 @@
 
 ## Important Dates / Tentative Deadlines
 
-- Keychains Feb 22-28 (Anghelos)
+- ~~Keychains Feb 22-28 (Anghelos)~~
 - Team project March 21/28
 - Project 1 Apr 11/18
 - Project 2 May 9/16
