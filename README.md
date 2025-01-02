@@ -1,6 +1,6 @@
-# 3D Printing for Creative Problem Solving
+# :wave: 3D Printing for Creative Problem Solving :wave:
 
-## Weekly Activities
+## :compass: Weekly Activities :compass:
 
 - **Week 1** - Intro to 3d thinking / technical drawing / cube exercise
 - **Week 2** - Intro to Fusion - recreate the cubes from sketches / Keychain - Sketches (start design)
@@ -19,7 +19,7 @@
 - Week 14 - Project 2 - Prototype 2
 - **Week 15** - Project 2 - **Submission** / Final Presentations
 
-## Autodesk Education Access
+## :page_with_curl: Autodesk Education Access :page_with_curl:
 
 ### Autodesk Guide for students
 
@@ -69,7 +69,7 @@ and [Launch Fusion on Mac](#launch-fusion-on-mac).
 
 ![Design Tips for 3D Printing](/resources/design-tips-3d-printing.jpg) -->
 
-## Due Dates & Project Breakdowns
+## :spiral_calendar: Due Dates & Project Breakdowns :spiral_calendar:
 
 ### Exercises
 
@@ -104,7 +104,7 @@ and [Launch Fusion on Mac](#launch-fusion-on-mac).
 - Print Period: Apr 29-May 5 (Final)
 - **Final DUE: May 6**
 
-## Additional Notes
+## :notebook_with_decorative_cover: Additional Notes :notebook_with_decorative_cover:
 
 ### Update Fusion Manually
 
