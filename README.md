@@ -1,5 +1,7 @@
 # :wave: 3D Printing for Creative Problem Solving :wave:
 
+![qr code to this repo](/resources/qr-github-repo.jpg)
+
 ## [:earth_americas: Weekly Activities and Due Dates :earth_americas:](/DATES.md)
 
 ## [:page_with_curl: Autodesk Education Access :page_with_curl:](/AUTODESK.md)
