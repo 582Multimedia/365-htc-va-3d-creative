@@ -6,6 +6,12 @@
 
 ## [:page_with_curl: Autodesk Education Access :page_with_curl:](/AUTODESK.md)
 
+<!-- ## :exclamation: DO TO RIGHT AWAY :exclamation:
+
+[Set up your security questions from the Security info page](https://support.microsoft.com/en-us/account-billing/set-up-security-questions-as-your-verification-method-3d74aedd-88a5-4932-a211-9f0bfbab5de8#:~:text=To%20set%20up%20your%20security%20questions&text)
+
+Due to IT's recent change to phase out the security portal, all access are migrated to Microsoft's security system for login and password recovery. Make sure to do add your security questions to your vanier account **ASAP**. -->
+
 <!-- ### Launch Fusion on Mac
 
 - Open `Finder`
