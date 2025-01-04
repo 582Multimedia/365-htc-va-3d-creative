@@ -12,6 +12,8 @@ how to be more creative 19:01
 
 Embrace the play and the journey of creativity!
 
+![How much you learn](/resources/how-much-you-learn.jpg)
+
 ## [:earth_americas: Weekly Activities and Due Dates :earth_americas:](/DATES.md)
 
 There will be tutorials at the beginning of class every week, followed by some practice exercises.
