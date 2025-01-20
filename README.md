@@ -6,9 +6,9 @@ Welcome to the 3D Printing for Creative Problem Solving course!
 
 The key to success in this course is ... to play!
 
-[John Cleese on Creativity In Management](https://www.youtube.com/watch?v=Pb5oIIPO62g&ab_channel=VideoArts)
+<!-- [John Cleese on Creativity In Management](https://www.youtube.com/watch?v=Pb5oIIPO62g&ab_channel=VideoArts)
 ability to play 6:08
-how to be more creative 19:01
+how to be more creative 19:01 -->
 
 Embrace the play and the journey of creativity!
 
@@ -22,9 +22,9 @@ There are two major projects for this course, along with two printing exercises,
 
 All work will be reviewed **in class**.
 
-## [:page_with_curl: Autodesk Education Access :page_with_curl:](/AUTODESK.md)]
+<!-- ## [:page_with_curl: Autodesk Education Access :page_with_curl:](/AUTODESK.md)]
 
-We will be using Autodesk Fusion 360 for our course. It's free to use for students!
+We will be using Autodesk Fusion 360 for our course. It's free to use for students! -->
 
 <!-- ## :exclamation: DO TO RIGHT AWAY :exclamation:
 
