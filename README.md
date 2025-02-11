@@ -22,6 +22,35 @@ There are two major projects for this course, along with two printing exercises,
 
 All work will be reviewed **in class**.
 
+## Motion
+
+### Autodesk tutorials
+
+- [Create new components from existing bodies](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-5966BF6B-4135-49B3-B5BF-29A6577C9E72)
+- [Ground a component](https://help.autodesk.com/view/fusion360/ENU/?guid=ASM-PIN-COMMAND)
+- [Joints](https://help.autodesk.com/view/fusion360/ENU/?guid=ASM-JOINTS)
+- [Create a joint](https://help.autodesk.com/view/fusion360/ENU/?guid=ASM-CREATE-JOINT)
+- [Motion Link reference](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-074622A9-EC62-4A2E-9BBC-DB61748C869F)
+
+### Youtube tutorials
+
+- [Hinge Joints in Fusion 360](https://www.youtube.com/watch?v=gGgmA1WZESs)
+- [Gears in Fusion 360](https://www.youtube.com/watch?v=B8A_11o7QZ0)
+
+### Springs
+
+- [3D Printable Springs - 4 Variations](https://www.printables.com/model/1050822-3d-printable-springs-4-variations)
+- [Top 4 Springs You Can Design with 3D Printing](https://www.youtube.com/watch?v=wpriGP45Unw&ab_channel=Slant3D)
+
+## Useful design tips for 3D Printing
+
+Hydra Research have a great & detailed list of illustrated tips:
+[https://www.hydraresearch3d.com/design-rules](https://www.hydraresearch3d.com/design-rules)
+
+[Design Tips for 3D Printing](https://imgur.com/gallery/SqIdFwB)
+
+![Design Tips for 3D Printing](/resources/design-tips-3d-printing.jpg)
+
 <!-- ## [:page_with_curl: Autodesk Education Access :page_with_curl:](/AUTODESK.md)]
 
 We will be using Autodesk Fusion 360 for our course. It's free to use for students! -->
